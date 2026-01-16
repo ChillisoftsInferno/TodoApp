@@ -1,0 +1,14 @@
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\bin\Debug\net10.0\TodoApi.Domain.exe
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\bin\Debug\net10.0\TodoApi.Domain.deps.json
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\bin\Debug\net10.0\TodoApi.Domain.runtimeconfig.json
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\bin\Debug\net10.0\TodoApi.Domain.dll
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\bin\Debug\net10.0\TodoApi.Domain.pdb
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\obj\Debug\net10.0\TodoApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\obj\Debug\net10.0\TodoApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\obj\Debug\net10.0\TodoApi.Domain.AssemblyInfo.cs
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\obj\Debug\net10.0\TodoApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\obj\Debug\net10.0\TodoApi.Domain.dll
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\obj\Debug\net10.0\refint\TodoApi.Domain.dll
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\obj\Debug\net10.0\TodoApi.Domain.pdb
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\obj\Debug\net10.0\TodoApi.Domain.genruntimeconfig.cache
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.Domain\obj\Debug\net10.0\ref\TodoApi.Domain.dll

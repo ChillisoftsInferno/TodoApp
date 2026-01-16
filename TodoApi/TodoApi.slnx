@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TodoApi.ApiService/TodoApi.ApiService.csproj" />
+  <Project Path="TodoApi.AppHost/TodoApi.AppHost.csproj" />
+  <Project Path="TodoApi.Domain/TodoApi.Domain.csproj" />
+  <Project Path="TodoApi.Infrastructure/TodoApi.Infrastructure.csproj" />
+  <Project Path="TodoApi.ServiceDefaults/TodoApi.ServiceDefaults.csproj" />
+</Solution>

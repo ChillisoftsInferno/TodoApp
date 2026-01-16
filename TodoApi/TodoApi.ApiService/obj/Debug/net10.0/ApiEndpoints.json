@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "TodoApi.ApiService.EndPoints.TodoList.TodoEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTodoEndpoints\u003Eb__0_0",
+    "RelativePath": "api/todos/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Todos"
+    ]
+  },
+  {
+    "ContainingType": "TodoApi.ApiService.EndPoints.TodoList.TodoEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTodoEndpoints\u003Eb__0_1",
+    "RelativePath": "api/todos/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "TodoApi.ApiService.EndPoints.TodoList.CreateTodoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Todos"
+    ]
+  },
+  {
+    "ContainingType": "TodoApi.ApiService.EndPoints.TodoList.TodoEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTodoEndpoints\u003Eb__0_2",
+    "RelativePath": "api/todos/{id:guid}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "req",
+        "Type": "TodoApi.ApiService.EndPoints.TodoList.UpdateTodoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Todos"
+    ]
+  },
+  {
+    "ContainingType": "TodoApi.ApiService.EndPoints.TodoList.TodoEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapTodoEndpoints\u003Eb__0_3",
+    "RelativePath": "api/todos/{id:guid}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Todos"
+    ]
+  }
+]

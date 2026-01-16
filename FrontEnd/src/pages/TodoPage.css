@@ -1,0 +1,166 @@
+/* TodoPage.css */
+.page {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 32px 16px;
+  background: radial-gradient(1200px 600px at 50% 0%, #2a2a2a 0%, #121212 60%, #0b0b0b 100%);
+  color: #eaeaea;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+.card {
+  width: 100%;
+  max-width: 560px;
+  background: rgba(20, 20, 20, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.header {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.title {
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: 0.2px;
+}
+
+.subtitle {
+  margin: 6px 0 0 0;
+  opacity: 0.75;
+  font-size: 14px;
+}
+
+.composer {
+  display: flex;
+  gap: 10px;
+  margin: 16px 0 14px;
+}
+
+.input {
+  flex: 1;
+  height: 42px;
+  padding: 0 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.06);
+  color: #fff;
+  outline: none;
+}
+
+.input:focus {
+  border-color: rgba(255,255,255,0.25);
+  box-shadow: 0 0 0 4px rgba(255,255,255,0.06);
+}
+
+.primaryBtn,
+.ghostBtn,
+.dangerBtn {
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.08);
+  color: #fff;
+  height: 42px;
+  padding: 0 14px;
+  cursor: pointer;
+}
+
+.primaryBtn {
+  background: rgba(255,255,255,0.14);
+  border-color: rgba(255,255,255,0.18);
+  font-weight: 600;
+}
+
+.primaryBtn:disabled,
+.ghostBtn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.ghostBtn {
+  height: 34px;
+  padding: 0 10px;
+  opacity: 0.9;
+}
+
+.dangerBtn {
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  opacity: 0.9;
+}
+
+.dangerBtn:hover {
+  border-color: rgba(255, 90, 120, 0.35);
+}
+
+.list {
+  display: grid;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.04);
+}
+
+.itemLeft {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.itemLeft input {
+  width: 18px;
+  height: 18px;
+}
+
+.itemText {
+  line-height: 1.2;
+}
+
+.done {
+  opacity: 0.55;
+  text-decoration: line-through;
+}
+
+.emptyState {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding: 16px;
+  border-radius: 12px;
+  border: 1px dashed rgba(255,255,255,0.15);
+  background: rgba(255,255,255,0.03);
+}
+
+.emptyIcon {
+  font-size: 22px;
+}
+
+.emptyTitle {
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.emptyText {
+  opacity: 0.75;
+  font-size: 14px;
+}
