@@ -18,15 +18,17 @@ using System.Reflection;
     "s\\ext\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\Dante D\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1.0\\tool" +
     "s\\ext\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApp\\TodoApi\\TodoApi.AppHost" +
+    "")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "TodoApi.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\Dante D\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\13.1.0\\tools\\Aspire" +
     ".Dashboard.exe")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.AppHost\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApp\\TodoApi\\TodoApi.AppHost" +
+    "\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoApi.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+798f643aee55eaa117cae47493a473c1d3d6f9b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoApi.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoApi.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

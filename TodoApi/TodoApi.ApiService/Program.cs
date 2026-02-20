@@ -10,8 +10,9 @@ builder.AddServiceDefaults();
 
 builder.Services.AddCors(o =>
 {
+    // p.WithOrigins("http://localhost:5173", "http://localhost:3000")
     o.AddPolicy("Frontend", p =>
-        p.WithOrigins("http://localhost:5173", "http://localhost:3000")
+            p.AllowAnyOrigin()
             .AllowAnyHeader()
             .AllowAnyMethod());
 }).AddApi(builder.Configuration);

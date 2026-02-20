@@ -9,7 +9,8 @@
       "TodoApi.AppHost/1.0.0": {
         "dependencies": {
           "Aspire.Hosting.AppHost": "13.1.0",
-          "Aspire.Hosting.PostgreSQL": "13.1.0"
+          "Aspire.Hosting.PostgreSQL": "13.1.0",
+          "CommunityToolkit.Aspire.Hosting.JavaScript.Extensions": "13.1.1"
         },
         "runtime": {
           "TodoApi.AppHost.dll": {}
@@ -101,6 +102,29 @@
           }
         }
       },
+      "Aspire.Hosting.JavaScript/13.1.0": {
+        "dependencies": {
+          "AspNetCore.HealthChecks.Uris": "9.0.0",
+          "Aspire.Hosting": "13.1.0",
+          "Google.Protobuf": "3.33.0",
+          "Grpc.AspNetCore": "2.71.0",
+          "Grpc.Net.ClientFactory": "2.71.0",
+          "Humanizer.Core": "2.14.1",
+          "JsonPatch.Net": "3.3.0",
+          "KubernetesClient": "18.0.5",
+          "Newtonsoft.Json": "13.0.4",
+          "Polly.Core": "8.6.4",
+          "Semver": "3.0.0",
+          "StreamJsonRpc": "2.22.23",
+          "System.IO.Hashing": "9.0.10"
+        },
+        "runtime": {
+          "lib/net8.0/Aspire.Hosting.JavaScript.dll": {
+            "assemblyVersion": "13.1.0.0",
+            "fileVersion": "13.100.25.61603"
+          }
+        }
+      },
       "Aspire.Hosting.PostgreSQL/13.1.0": {
         "dependencies": {
           "AspNetCore.HealthChecks.NpgSql": "9.0.0",
@@ -141,6 +165,18 @@
           "lib/net8.0/HealthChecks.Uris.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.0.0"
+          }
+        }
+      },
+      "CommunityToolkit.Aspire.Hosting.JavaScript.Extensions/13.1.1": {
+        "dependencies": {
+          "Aspire.Hosting": "13.1.0",
+          "Aspire.Hosting.JavaScript": "13.1.0"
+        },
+        "runtime": {
+          "lib/net10.0/CommunityToolkit.Aspire.Hosting.JavaScript.Extensions.dll": {
+            "assemblyVersion": "13.1.1.0",
+            "fileVersion": "13.1.1.0"
           }
         }
       },
@@ -548,6 +584,13 @@
       "path": "aspire.hosting.apphost/13.1.0",
       "hashPath": "aspire.hosting.apphost.13.1.0.nupkg.sha512"
     },
+    "Aspire.Hosting.JavaScript/13.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NGCcm6BBVwAhY1gcPh5XdO3kT291jeqoO8oa+82n4EVmHOGudxUNE652jo19LdSB8eJnxC1oYvB49gcU7KaTew==",
+      "path": "aspire.hosting.javascript/13.1.0",
+      "hashPath": "aspire.hosting.javascript.13.1.0.nupkg.sha512"
+    },
     "Aspire.Hosting.PostgreSQL/13.1.0": {
       "type": "package",
       "serviceable": true,
@@ -568,6 +611,13 @@
       "sha512": "sha512-XYdNlA437KeF8p9qOpZFyNqAN+c0FXt/JjTvzH/Qans0q0O3pPE8KPnn39ucQQjR/Roum1vLTP3kXiUs8VHyuA==",
       "path": "aspnetcore.healthchecks.uris/9.0.0",
       "hashPath": "aspnetcore.healthchecks.uris.9.0.0.nupkg.sha512"
+    },
+    "CommunityToolkit.Aspire.Hosting.JavaScript.Extensions/13.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mYokOJV3q+Lnv2UyMUj6mqLeYruYaPvmm5B5PCRK5DmvbJXAdhCobIeFut/5bIDyfqGs137Lrh2e1ktpxmAMTw==",
+      "path": "communitytoolkit.aspire.hosting.javascript.extensions/13.1.1",
+      "hashPath": "communitytoolkit.aspire.hosting.javascript.extensions.13.1.1.nupkg.sha512"
     },
     "Fractions/7.3.0": {
       "type": "package",

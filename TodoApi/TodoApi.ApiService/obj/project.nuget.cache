@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rz1X6DVpykE=",
+  "dgSpecHash": "4skT9+tgaSM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\TodoApi.ApiService.csproj",
+  "projectFilePath": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApp\\TodoApi\\TodoApi.ApiService\\TodoApi.ApiService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dante D\\.nuget\\packages\\aspire.hosting\\13.1.0\\aspire.hosting.13.1.0.nupkg.sha512",
     "C:\\Users\\Dante D\\.nuget\\packages\\aspnetcore.healthchecks.uris\\9.0.0\\aspnetcore.healthchecks.uris.9.0.0.nupkg.sha512",

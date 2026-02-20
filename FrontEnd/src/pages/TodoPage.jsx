@@ -15,7 +15,6 @@ export default function TodoPage() {
     [todos]
   );
 
-  // Load from backend
   useEffect(() => {
     let cancelled = false;
 
@@ -27,7 +26,6 @@ export default function TodoPage() {
         const data = await getTodos();
         if (cancelled) return;
 
-        // optional: sort newest first (if backend doesn’t)
         const sorted = [...data].sort(
           (a, b) => new Date(b.createdUtc) - new Date(a.createdUtc)
         );
@@ -64,7 +62,6 @@ export default function TodoPage() {
   };
 
   const toggleTodo = async (id) => {
-    // optimistic update
     const current = todos.find((t) => t.id === id);
     if (!current) return;
 
@@ -77,10 +74,8 @@ export default function TodoPage() {
       setError(null);
       const updated = await updateTodo(id, { completed: nextCompleted });
 
-      // reconcile with server response
       setTodos((prev) => prev.map((t) => (t.id === id ? updated : t)));
     } catch (e) {
-      // rollback
       setTodos((prev) =>
         prev.map((t) => (t.id === id ? { ...t, completed: current.completed } : t))
       );
@@ -89,7 +84,6 @@ export default function TodoPage() {
   };
 
   const removeTodo = async (id) => {
-    // optimistic delete
     const snapshot = todos;
     setTodos((prev) => prev.filter((t) => t.id !== id));
 
@@ -97,7 +91,7 @@ export default function TodoPage() {
       setError(null);
       await deleteTodo(id);
     } catch (e) {
-      setTodos(snapshot); // rollback
+      setTodos(snapshot);
       setError(e?.message ?? "Failed to delete todo");
     }
   };
@@ -113,7 +107,7 @@ export default function TodoPage() {
       setError(null);
       await Promise.all(completed.map((t) => deleteTodo(t.id)));
     } catch (e) {
-      setTodos(snapshot); // rollback
+      setTodos(snapshot);
       setError(e?.message ?? "Failed to clear completed todos");
     }
   };
@@ -138,7 +132,7 @@ export default function TodoPage() {
             </p>
             {error ? (
               <p style={{ marginTop: 8, opacity: 0.85 }}>
-                ❌ {error}
+                {error}
               </p>
             ) : null}
           </div>

@@ -15,7 +15,7 @@ public class TodoApi_ApiService : global::Aspire.Hosting.IProjectMetadata
     /// <summary>
     /// The path to the TodoApi_ApiService project.
     /// </summary>
-    public string ProjectPath => """C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.ApiService\TodoApi.ApiService.csproj""";
+    public string ProjectPath => """C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ApiService\TodoApi.ApiService.csproj""";
 
     /// <summary>
     /// Gets a value indicating whether building the project before running it should be suppressed.

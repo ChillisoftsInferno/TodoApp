@@ -5,7 +5,6 @@ async function handle(res) {
     const text = await res.text().catch(() => "");
     throw new Error(text || `Request failed: ${res.status}`);
   }
-  // 204 No Content
   if (res.status === 204) return null;
   return res.json();
 }

@@ -10,3 +10,16 @@ C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.ServiceDefault
 C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\refint\TodoApi.ServiceDefaults.dll
 C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\TodoApi.ServiceDefaults.pdb
 C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\ref\TodoApi.ServiceDefaults.dll
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\bin\Debug\net10.0\TodoApi.ServiceDefaults.deps.json
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\bin\Debug\net10.0\TodoApi.ServiceDefaults.dll
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\bin\Debug\net10.0\TodoApi.ServiceDefaults.pdb
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\TodoApi.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\TodoApi.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\TodoApi.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\TodoApi.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\TodoApi.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\TodoApi.ServiceDefaults.sourcelink.json
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\TodoApi.ServiceDefaults.dll
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\refint\TodoApi.ServiceDefaults.dll
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\TodoApi.ServiceDefaults.pdb
+C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ServiceDefaults\obj\Debug\net10.0\ref\TodoApi.ServiceDefaults.dll

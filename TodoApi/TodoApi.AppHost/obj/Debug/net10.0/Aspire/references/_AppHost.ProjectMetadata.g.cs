@@ -17,5 +17,5 @@ public class TodoApi_AppHost
     /// <summary>
     /// The path to the Aspire Host project.
     /// </summary>
-    public static string ProjectPath => """C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApi\TodoApi.AppHost""";
+    public static string ProjectPath => """C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.AppHost""";
 }

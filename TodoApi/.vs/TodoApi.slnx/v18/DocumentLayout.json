@@ -1,54 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApp\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|solutionrelative:todoapi.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0627910F-F32F-494D-B99D-5502475B2798}|TodoApi.AppHost\\TodoApi.AppHost.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0627910F-F32F-494D-B99D-5502475B2798}|TodoApi.AppHost\\TodoApi.AppHost.csproj|solutionrelative:todoapi.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|solutionrelative:todoapi.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|solutionrelative:todoapi.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.infrastructure\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|solutionrelative:todoapi.infrastructure\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.infrastructure\\migrations\\tododbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|solutionrelative:todoapi.infrastructure\\migrations\\tododbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.apiservice\\endpoints\\todolist\\todoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapp\\todoapi\\todoapi.apiservice\\endpoints\\todolist\\todoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|solutionrelative:todoapi.apiservice\\endpoints\\todolist\\todoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.apiservice\\endpoints\\todolist\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|solutionrelative:todoapi.apiservice\\endpoints\\todolist\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.apiservice\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|solutionrelative:todoapi.apiservice\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.infrastructure\\migrations\\20260116125950_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F41D69-B156-44B4-98D7-6D6FDEB52FFA}|TodoApi.Infrastructure\\TodoApi.Infrastructure.csproj|solutionrelative:todoapi.infrastructure\\migrations\\20260116125950_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E0590C2-7BD8-4799-8363-01A8FE74502C}|TodoApi.Domain\\TodoApi.Domain.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E0590C2-7BD8-4799-8363-01A8FE74502C}|TodoApi.Domain\\TodoApi.Domain.csproj|solutionrelative:todoapi.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapi\\todoapi.apiservice\\todoapi.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|solutionrelative:todoapi.apiservice\\todoapi.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|c:\\users\\dante d\\documents\\projects\\reactprojects\\todoapp\\todoapi\\todoapi.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4415AC-7B06-892A-48B3-514BB02193B2}|TodoApi.ApiService\\TodoApi.ApiService.csproj|solutionrelative:todoapi.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TodoDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\Migrations\\TodoDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "TodoApi.Infrastructure\\Migrations\\TodoDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\Migrations\\TodoDbContextModelSnapshot.cs",
-              "RelativeToolTip": "TodoApi.Infrastructure\\Migrations\\TodoDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T13:01:00.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20260116125950_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\Migrations\\20260116125950_InitialCreate.cs",
-              "RelativeDocumentMoniker": "TodoApi.Infrastructure\\Migrations\\20260116125950_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\Migrations\\20260116125950_InitialCreate.cs",
-              "RelativeToolTip": "TodoApi.Infrastructure\\Migrations\\20260116125950_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T13:00:57.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "TodoApi.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "TodoApi.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:49:06.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TodoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\TodoDbContext.cs",
-              "RelativeDocumentMoniker": "TodoApi.Infrastructure\\TodoDbContext.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\TodoDbContext.cs",
-              "RelativeToolTip": "TodoApi.Infrastructure\\TodoDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:48:15.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "TodoApi.ApiService\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\DependencyInjection.cs",
-              "RelativeToolTip": "TodoApi.ApiService\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:40:15.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Domain\\Program.cs",
-              "RelativeDocumentMoniker": "TodoApi.Domain\\Program.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Domain\\Program.cs",
-              "RelativeToolTip": "TodoApi.Domain\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:40:36.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\Program.cs",
-              "RelativeDocumentMoniker": "TodoApi.Infrastructure\\Program.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.Infrastructure\\Program.cs",
-              "RelativeToolTip": "TodoApi.Infrastructure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:38:22.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppHost.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.AppHost\\AppHost.cs",
-              "RelativeDocumentMoniker": "TodoApi.AppHost\\AppHost.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.AppHost\\AppHost.cs",
-              "RelativeToolTip": "TodoApi.AppHost\\AppHost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:18:53.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApp\\TodoApi\\TodoApi.ApiService\\Program.cs",
               "RelativeDocumentMoniker": "TodoApi.ApiService\\Program.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApp\\TodoApi\\TodoApi.ApiService\\Program.cs",
               "RelativeToolTip": "TodoApi.ApiService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T12:33:26.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Responses.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\EndPoints\\TodoList\\Responses.cs",
-              "RelativeDocumentMoniker": "TodoApi.ApiService\\EndPoints\\TodoList\\Responses.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\EndPoints\\TodoList\\Responses.cs",
-              "RelativeToolTip": "TodoApi.ApiService\\EndPoints\\TodoList\\Responses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T13:06:05.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "TodoEndPoints.cs",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\EndPoints\\TodoList\\TodoEndPoints.cs",
+              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApp\\TodoApi\\TodoApi.ApiService\\EndPoints\\TodoList\\TodoEndPoints.cs",
               "RelativeDocumentMoniker": "TodoApi.ApiService\\EndPoints\\TodoList\\TodoEndPoints.cs",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\EndPoints\\TodoList\\TodoEndPoints.cs",
+              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApp\\TodoApi\\TodoApi.ApiService\\EndPoints\\TodoList\\TodoEndPoints.cs",
               "RelativeToolTip": "TodoApi.ApiService\\EndPoints\\TodoList\\TodoEndPoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T13:06:31.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TodoApi.ApiService",
-              "DocumentMoniker": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\TodoApi.ApiService.csproj",
-              "RelativeDocumentMoniker": "TodoApi.ApiService\\TodoApi.ApiService.csproj",
-              "ToolTip": "C:\\Users\\Dante D\\Documents\\Projects\\ReactProjects\\TodoApi\\TodoApi.ApiService\\TodoApi.ApiService.csproj",
-              "RelativeToolTip": "TodoApi.ApiService\\TodoApi.ApiService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-16T12:32:44.719Z",
               "EditorCaption": ""
             }
           ]
