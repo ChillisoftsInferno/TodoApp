@@ -120,3 +120,6 @@ pnpm-lock.yaml
 ############################################
 
 docker-compose.override.yml
+
+*.slnx
+*.dll
