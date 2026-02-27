@@ -1,4 +1,4 @@
-import { Route, Navigate } from 'react-router'
+import { Route, Navigate } from 'react-router-dom'
 import { generalAppRoutes } from './GeneralAppRoutes'
 import { TodoPage } from './pages/todo/TodoPage'
 

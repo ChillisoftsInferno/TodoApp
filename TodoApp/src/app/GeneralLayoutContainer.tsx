@@ -1,5 +1,5 @@
 import { Box, styled } from '@mui/material'
-import { Outlet } from 'react-router'
+import { Outlet } from 'react-router-dom'
 import Toast from './components/shared/toast/toast'
 
 const Thing = styled('div')(({ theme }) => ({

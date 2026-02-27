@@ -1,4 +1,4 @@
-import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router'
+import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom'
 import GeneralRoute from './app/components/shared/routing/GeneralRoute'
 import { GeneralRoutes } from './app/routes'
 

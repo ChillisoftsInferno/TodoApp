@@ -6,7 +6,7 @@ import { Router } from './router'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <ThemeProvider theme={theme} defaultMode="light">
+    <ThemeProvider theme={theme}>
       <Router />
     </ThemeProvider>
   </StrictMode>

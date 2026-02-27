@@ -463,7 +463,6 @@ C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ApiSer
 C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ApiService\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ApiService\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ApiService\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ApiService\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ApiService\obj\Debug\net10.0\TodoApi..44587575.Up2Date
 C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ApiService\obj\Debug\net10.0\TodoApi.ApiService.dll
 C:\Users\Dante D\Documents\Projects\ReactProjects\TodoApp\TodoApi\TodoApi.ApiService\obj\Debug\net10.0\refint\TodoApi.ApiService.dll

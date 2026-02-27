@@ -2,7 +2,7 @@ import {
   Box,
   styled
 } from '@mui/material'
-import { Outlet } from 'react-router'
+import { Outlet } from 'react-router-dom'
 
 const MasterPageContainer = styled(Box)(({ theme }) => ({
   display: 'flex',
