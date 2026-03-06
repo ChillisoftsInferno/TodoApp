@@ -8,7 +8,6 @@ postgres.WithPgAdmin();
 
 var db = postgres.AddDatabase("todosdb");
 
-// Define a parameter in AppHost (Native Aspire, Not Azure)
 var appConfigValue = builder.AddParameter("MyCustomConfigValue", secret: true);
 
 var apiService = builder.AddProject<Projects.TodoApi_ApiService>("apiservice")
