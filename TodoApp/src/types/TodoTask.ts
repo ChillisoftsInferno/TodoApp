@@ -1,5 +1,6 @@
 export type TodoTask = {
-    id: number;
-    title: string;
-    completed: boolean;
+  id: string;
+  text: string;
+  completed: boolean;
+  createdUtc: string;
 }

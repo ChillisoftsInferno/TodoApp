@@ -1,6 +1,2 @@
-export type AddTodoTaskResponse = {
-    value: {
-        success: boolean;
-        message: string;
-    }
-}
+import type { TodoTask } from "./TodoTask";
+export type AddTodoTaskResponse = TodoTask;

@@ -9,9 +9,11 @@ postgres.WithPgAdmin();
 var db = postgres.AddDatabase("todosdb");
 
 var appConfigValue = builder.AddParameter("MyCustomConfigValue", secret: true);
+var enableExtraEndpoints = builder.AddParameter("EnableExtraEndpoints");
 
 var apiService = builder.AddProject<Projects.TodoApi_ApiService>("apiservice")
     .WithReference(db)
-    .WithEnvironment("CUSTOM_SETTING", appConfigValue);
+    .WithEnvironment("CUSTOM_SETTING_ONE", appConfigValue)
+    .WithEnvironment("ENABLE_EXTRA_ENDPOINTS", enableExtraEndpoints);
 
 builder.Build().Run();

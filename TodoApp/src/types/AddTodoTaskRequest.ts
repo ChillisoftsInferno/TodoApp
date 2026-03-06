@@ -1,3 +1,3 @@
 export type AddTodoTaskRequest = {
-    title: string;
+  text: string;
 }
