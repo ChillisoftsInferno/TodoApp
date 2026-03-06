@@ -8,11 +8,11 @@ postgres.WithPgAdmin();
 
 var db = postgres.AddDatabase("todosdb");
 
-var apiService = builder.AddProject<Projects.TodoApi_ApiService>("apiservice")
-    .WithReference(db);
+// Define a parameter in AppHost (Native Aspire, Not Azure)
+var appConfigValue = builder.AddParameter("MyCustomConfigValue", secret: true);
 
-//builder.AddViteApp("todos-frontend", "../../FrontEnd")
-//    .WithNpm()
-//    .WithReference(apiService);
+var apiService = builder.AddProject<Projects.TodoApi_ApiService>("apiservice")
+    .WithReference(db)
+    .WithEnvironment("CUSTOM_SETTING", appConfigValue);
 
 builder.Build().Run();

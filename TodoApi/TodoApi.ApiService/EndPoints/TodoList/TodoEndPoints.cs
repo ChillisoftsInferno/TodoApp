@@ -10,6 +10,13 @@ namespace TodoApi.ApiService.EndPoints.TodoList
             var group = app.MapGroup("/api/todos")
                 .WithTags("Todos");
 
+            // Example: Get configuration value passed from Aspire AppHost
+            group.MapGet("/config-demo", (IConfiguration config) =>
+            {
+                var val = config["CUSTOM_SETTING"];
+                return Results.Ok(new { SettingValue = val });
+            });
+
             group.MapGet("/", async (ITodoRepository repo, CancellationToken ct) =>
             {
                 var todos = await repo.GetAllAsync(ct);
